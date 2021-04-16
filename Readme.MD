@@ -34,16 +34,16 @@ It will run by default on ``localhost:8080``
 ## Application screenshots
 
 ###Main page with contacts
-![Main_page](https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.41.46.png)
+![Main_page]https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.42.50.png
 
 ###Validation example for inputs
-![Update_contact_validation](images/Screenshot 2021-04-16 at 20.41.46.png)
+![Validation_input](https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.41.46.png)
 
 ###Error page when email already exists
-![Error_page](images/Screenshot 2021-04-16 at 20.42.00.png)
+![Error_page](https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.42.00.png)
 
 ###Free text search in contacts email, number and name
-![Free_text_search](images/Screenshot 2021-04-16 at 20.43.04.png)
+![Free_text_search](https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.43.04.png)
 
 
     
