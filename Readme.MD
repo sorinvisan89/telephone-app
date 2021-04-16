@@ -9,6 +9,7 @@ It uses template rendering for frontend.
 I would have use Angular 8 for the frontend if it was allowed.
 
 This POC microservice has **no tests and no JWT security for endpoints**.
+It has a **free text search** functionality for contacts in their email, name and number.
 
 
 ## Technologies used
@@ -16,7 +17,10 @@ This POC microservice has **no tests and no JWT security for endpoints**.
 2) H2 embedded database
 3) Spring Boot
 4) Hibernate
-5) Thymeleaf for frontend template rendering
+5) Thymeleaf for frontend template rendering(should have used **Angular**)
+6) FlywayDB
+7) Mapstruct
+8) Bootstrap
 
 ## How to run
 
@@ -26,4 +30,20 @@ Go to the root folder of the project and simply run:
 This will build the docker image and run the application inside the container.
 
 It will run by default on ``localhost:8080``
+
+## Application screenshots
+
+###Main page with contacts
+![Main_page](images/Screenshot 2021-04-16 at 20.42.50.png)
+
+###Validation example for inputs
+![Update_contact_validation](images/Screenshot 2021-04-16 at 20.41.46.png)
+
+###Error page when email already exists
+![Error_page](images/Screenshot 2021-04-16 at 20.42.00.png)
+
+###Free text search in contacts email, number and name
+![Free_text_search](images/Screenshot 2021-04-16 at 20.43.04.png)
+
+
     

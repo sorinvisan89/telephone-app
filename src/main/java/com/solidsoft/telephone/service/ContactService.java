@@ -91,7 +91,7 @@ public class ContactService {
         existing.setName(contactDTO.getName());
         existing.setNumber(contactDTO.getNumber());
 
-        // no .save() is required is entity is in a MANAGED state inside transaction
+        // no contactRepository.save() is required for entity because it is in a MANAGED state inside transaction
         return contactMapper.toDTO(existing);
     }
 
