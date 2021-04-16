@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  telephone-app:
+    build: .
+    ports:
+      - "8080:8080"
