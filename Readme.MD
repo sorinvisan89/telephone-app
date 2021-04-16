@@ -34,7 +34,7 @@ It will run by default on ``localhost:8080``
 ## Application screenshots
 
 ###Main page with contacts
-![Main_page]https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.42.50.png
+![Main_page](https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.42.50.png)
 
 ###Validation example for inputs
 ![Validation_input](https://github.com/sorinvisan89/telephone-app/blob/master/images/Screenshot%202021-04-16%20at%2020.41.46.png)
